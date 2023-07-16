@@ -4,4 +4,4 @@ streamlit==1.24.0
 streamlit_chat
 requests
 bs4
-urllib.parse
+
